@@ -1,8 +1,8 @@
 # YT-To-Mp4-Python
-This Basically Converts Youtube URLS to mp4 videos and txt descriptions.
+Converts Youtube URLS to mp4 videos and txt descriptions.
 
 # Table Of Content
-//WEV
+https://github.com/MikaDevy/YT-To-Mp4-Python/edit/master/README.md
 
 # How to use...
 Instructions | Code
