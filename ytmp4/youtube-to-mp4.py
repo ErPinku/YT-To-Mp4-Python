@@ -34,7 +34,7 @@ class YoutubeStats:
     def download_video(self, youtube_url: str, title: str):
         YouTube(youtube_url).streams.first().download(filename=title)
 
-api_key = "AIzaSyCjSH_3pYyCSSc0p2NYkKKJqRjt-UJ2Lc8"
+api_key = "your_api_key_here_from_https://console.developers.google.com/"
 
 u_vid = "INPUT VIDEO URL HERE.csv"
 
