@@ -13,6 +13,6 @@ Instructions | Code
 ------------ | -----
 Install the repo | `$ git clone https://github.com/MikaDevy/YT-To-Mp4-Python.git`
 Go in the folder | `$ cd YT-To-Mp4-Python`
-Use any text editor to paste your youtube api key | ```api_key = "my_api_key_here"```
+Go in youtube-to-mp4.py, use any text editor to paste your youtube api key | ```api_key = "ex: Misn6Hbns58_1isI"```
 Paste your youtube link the included cvs file with any text editor | ![YT-Link](https://mikadevy.github.io/en-us/Images/ASwkIhgH1Kh1Nja9k.png)
 And run | `$ python -u youtube-to-mp4.py`
